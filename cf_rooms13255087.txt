@@ -1,0 +1,1401 @@
+RESORT	BUILDING	GRS_CODES	CRDITS_PICKUP	SQUARE_UNIT_MEASUREMENT	SQUARE_UNITS	ORDER_BY	ROOM	KEY_CODE	EXTENSIONS	TURNDOWN	PHONE_NUMBER	DECODE_R_MEETINGROOM_YN_Y_F_ME	RATE_AMOUNT	SMOKING_PREFERENCE	TYPE	CLASS	DESCRIPTION	CREDITS_DEPARTURE	CREDITS_TURNDOWN	CREDITS	FLOOR	ROOM_FLOOR	RATE_CODE	MAX_OCCUPANCY	HK_SECTION_CODE	HK_EVENING_SECTION	COMPONENT_ROOM	CONNECTING_SUITES	FEATURES	OVOS_GRADE_CODE
+MALHA			.25		22.01	1	0502			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	5	05		3	05B				TOW,SBY,ST,OR,MIX,SFB	
+MALHA			.25		22.01	1	0503			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		3	05B			0504	CON,TOW,SBY,ST,OR,MIX,SFB	
+MALHA			.25		22.01	1	0504			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		3	05B			0503	CON,TOW,NE,BLU,ST,SFB,MIX	
+MALHA			.25		22.01	1	0505			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	5	05		4	05B			0506	CON,BAY,NE,ST,LBA,OR,SFB,MIX	
+MALHA			.25		22.42	1	0506			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	5	05		3	05B			0505	CON,BAY,NE,BLU,ST,LBA,SFB,MIX	
+MALHA			.25		22.42	1	0507			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		3	05B				BAY,NE,ST,OR,LBA,MIX,SFB	
+MALHA			.25		22.42	1	0508			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		3	05B				BAY,OR,SFB,MIX	
+MALHA			.25		22.42	1	0509			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		4	05B				BAY,OR,SFB,MIX	
+MALHA			.25		24.64	1	0510			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		4	05B				BAY,OR,SBA,LRG,SFB,MIX	
+MALHA			.25		25.03	1	0511			N		N		NS	KWCG	DLX	W/Chair Accessible room	1	0	.5	5	05		2	05B			0514	CON,SGAR,YEL,QT,WHC,LRG,MIX	
+MALHA			.25		24.64	1	0512			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		4	05B				BAY,OR,NBA,LRG,SFB,MIX	
+MALHA			.5		26.34	1	0513			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1.5	0	1	5	05		4	05B				BAY,OR,NBA,LRG,SFB,MIX	
+MALHA			.25		33.62	1	0514			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	5	05		2	05B			0511	CON,SGAR,YEL,LRG,MIX	
+MALHA			.25		21.88	1	0515			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	5	05		4	05B				SGAR,PUR,REV,HVA,MIX	
+MALHA			.25		21.88	1	0516			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	5	05		4	05B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0517			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	5	05		4	05B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0518			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	5	05		2	05B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		22.01	1	0601			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		3	06B			0602	CON,TOW,ST,OR,NBA,SFB,MIX	
+MALHA			.25		22.01	1	0602			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	6	06		3	06B			0601	CON,TOW,ST,OR,SBA,MIX,SFB	
+MALHA			.25		22.01	1	0603			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		3	06B			0604	CON,BAY,TOW,SBY,OR,SFB,MIX	
+MALHA			.25		22.01	1	0604			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	6	06		3	06B			0603	CON,TOW,NE,OR,SFB,MIX	
+MALHA			.25		22.42	1	0607			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		3	06B				TOW,SBY,NE,BLU,ST,LBA,SFB,MIX	
+MALHA			.25		22.42	1	0608			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		3	06B				TOW,NE,LBA,OR,SFB,MIX	
+MALHA			.25		22.42	1	0609			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		3	06B				BAY,NE,OR,SFB,MIX	
+MALHA			.25		24.64	1	0610			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		4	06B				BAY,OR,LRG,SFB,MIX	
+MALHA			.25		25.03	1	0611			N		N		NS	KWCG	DLX	W/Chair Accessible room	1	0	.6	6	06		2	06B			0614	CON,SGAR,YEL,WHC,ACC,MIX	
+MALHA			.25		24.64	1	0612			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	6	06		4	06B			0613	CON,BAY,OR,SBA,LRG,SFB,MIX	
+MALHA			.5		30.25	1	0613			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1.5	0	1	6	06		4	06B			0612	CON,BAY,SBY,AWY,LBA,OR,LRG,SFB,MIX	
+MALHA			.25		33.62	1	0614			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	6	06		2	06B			0611	SGAR,YEL,MIX	
+MALHA			.25		21.88	1	0615			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	6	06		4	06B				SGAR,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0616			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	6	06		4	06B				SGAR,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0617			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	6	06		4	06B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0618			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	6	06		2	06B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		22.01	1	0701			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	7	07		3	07B			0702	CON,BAY,SBY,AWY,OR,REV,SFB,MIX	
+MALHA			.25		22.01	1	0702			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	7	07		4	07B			0701	CON,TOW,ST,OR,SBA,MIX,SFB	
+MALHA			.25		18.69	1	0703			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x Queen Beds, 1x sofa bed small	1	0	.6	7	07		2	07B				GAR,ST,GR,MIX	
+MALHA			.25		22.01	1	0704			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	7	07		3	07B			0705	CON,TOW,SBY,NE,SFB,MIX,RED	
+MALHA			.25		22.01	1	0705			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	7	07		4	07B			0704	CON,TOW,SBY,NE,SFB,MIX,RED	
+MALHA			.25		18.69	1	0706			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x Queen beds, 1 sofabed small	1	0	.6	7	07		2	07B				GAR,NE,YEL,MIX	
+MALHA			.25		18.69	1	0707			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x Queen beds, 1x sofabed small	1	0	.6	7	07		2	07B				GAR,NE,GR,MIX	
+MALHA			.25		22.01	1	0708			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room 2x Queen beds, 1x sofabed small	1	0	.6	7	07		3	07B			0709	CON,BAY,NE,ST,LBA,OR,SFB,MIX	
+MALHA			.25		22.42	1	0709			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room - 1x king bed, 1 large sofa bed	1	0	.6	7	07		4	07B			0708	CON,BAY,NE,ST,LBA,OR,SFB,MIX	
+MALHA			.25		22.42	1	0710			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room 2x Queen beds, 1x sofabed small	1	0	.6	7	07		3	07B				BAY,NE,ST,LBA,MIX,RED,SFB	
+MALHA			.25		22.42	1	0711			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x Queen bed, 1 sofa bed small	1	0	.6	7	07		3	07B				BAY,NE,LBA,RED,SFB,MIX	
+MALHA			.5		40.58	1	0712			Y		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x King beds, 1x sofabed large	1.5	0	1	7	07		2	07B				SGAR,NE,LRG,REV,SFB,MIX,RED	
+MALHA			.25		22.42	1	0713			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	7	07		4	07B				BAY,LBA,RED,SFB,MIX	
+MALHA			.25		24.64	1	0714			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	7	07		4	07B				BAY,SBA,LRG,RED,SFB,MIX	
+MALHA			.25		25.03	1	0715			N		N		NS	KWCG	DLX	W/Chair Accessible room	1	0	.5	7	07		2	07B			0717	SGAR,YEL,WHC,ACC,MIX	
+MALHA			.25		24.64	1	0716			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	7	07		4	07B			0718	CON,TOW,SBA,LRG,SFB,MIX,RED	
+MALHA			.25	33.62		1	0717			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2	07B			0715	CON,SGAR,LRG,ACC,RED,SFB	
+MALHA			.5		30.25	1	0718			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1.5	0	1	7	07		4	07B			0716	CON,TOW,GR,NBA,LRG,SFB,MIX	
+MALHA			.25		21.88	1	0719			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	7	07		4	07B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0720			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	7	07		4	07B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0721			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	7	07		4	07B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		21.88	1	0722			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2	07B				SGAR,AWY,ST,PUR,HVA,MIX	
+MALHA			.25		18.13	1	0723			Y		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2					SGAR,NE,ST,REV,MIX,RED	
+MALHA			.25		36.01	1	0726			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2	07G				SGAR,NE,YEL,ST,LRG,MIX	
+MALHA			.25		23.16	1	0727			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2	07G				SGAR,NE,ST,GR,NSH,MIX	
+MALHA			.25		20.96	1	0728			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07G				GAR,TLF,YEL,ST,MIX	
+MALHA			.25		20.96	1	0729			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,YEL,ST,MIX	
+MALHA			.25		20.96	1	0730			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,YEL,ST,MIX	
+MALHA			.25		20.96	1	0731			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,RED,MIX	
+MALHA			.25		20.96	1	0732			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,YEL,MIX	
+MALHA			.25		20.96	1	0733			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,YEL,MIX	
+MALHA			.25		20.96	1	0734			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0735			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0736			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0738			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,AWY,ST,RED	
+MALHA			.5		31.72	1	0740			Y		N		NS	XKLG	SU JR	1x kingbed  with sofa bed large	1.5	0	1	7	07		4	07M				TLF,GAR,AWY,YEL,LRG,SFB,MIX	
+MALHA			.25		20.96	1	0741			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07M				GAR,TLF,AWY,RED,MIX	
+MALHA			.25		20.96	1	0742			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07M				GAR,TLF,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0743			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07M				GAR,TLF,AWY,RED,MIX	
+MALHA			.25		20.96	1	0744			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07M				GAR,TLF,AWY,ST,RED,MIX	
+MALHA			.25		20.96	1	0745			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07M				GAR,TLF,AWY,ST,RED,MIX	
+MALHA			.25		22.01	1	0801			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B			0802	CON,BAY,OR,MIX	
+MALHA			.25		22.01	1	0802			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	8	08		3	08B			0801	CON,BAY,BLU,ST,MIX	
+MALHA			.25		18.69	1	0803			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08B				GAR,YEL,REV,MIX	
+MALHA			.25		22.01	1	0804			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B			0805	CON,TOW,NE,OR,SBA,MIX	
+MALHA			.25		22.01	1	0805			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	8	08		4	08B			0804	CON,TOW,SBY,NE,OR,SBA,MIX	
+MALHA			.25		18.69	1	0806			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08B				GAR,NE,RED,MIX	
+MALHA			.25		18.69	1	0807			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08B				GAR,NE,YEL,MIX	
+MALHA			.25		22.01	1	0808			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B			0809	CON,TOW,SBY,NE,ST,OR,MIX	
+MALHA			.25		22.42	1	0809			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	8	08		4	08B			0808	CON,TOW,SBY,NE,ST,OR,LBA,MIX	
+MALHA			.25		22.42	1	0810			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B				BAY,NE,BLU,LBA,MIX	
+MALHA			.25		22.42	1	0811			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B				BAY,NE,LBA,OR,MIX	
+MALHA			.5	40.58		1	0812			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1.5	0	1	8	08		4	08B				SGAR,YEL,QT,LRG,REV,MIX,SFB	
+MALHA			.25		22.42	1	0813			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B				BAY,OR,SFB,MIX	
+MALHA			.25		24.64	1	0814			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		4	08B				BAY,OR,LRG,SFB,MIX	
+MALHA			.25		25.03	1	0815			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08B				SGAR,GR,QT,LRG,MIX	
+MALHA			.25		24.64	1	0816			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	8	08		3	08B			0817	CON,BAY,OR,SBA,LRG,SFB,MIX	
+MALHA			.5		30.25	1	0817			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1.5	0	1	8	08		2	08B			0816	CON,BAY,OR,NBA,LRG	
+MALHA			.25		33.62	1	0818			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room - 1x King bed, 1 small sofbed	1	0	.6	8	08		2	08B				SGAR,GR,QT,LRG,SFB	
+MALHA			.25		18.13	1	0819			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08D				GAR,NE,YEL	
+MALHA			.25		18.13	1	0821			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08D				GAR,NE,YEL,REV,MIX	
+MALHA			.25		18.13	1	0823			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	8	08		2	08D				GAR,NE,YEL,REV,MIX	
+MALHA			.25		18.13	1	0824			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08D				SGAR,NE,OR,MIX	
+MALHA			.25		18.13	1	0825			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08D				GAR,YEL,REV,MIX	
+MALHA			.25		18.13	1	0826			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		4	08D				SGAR,BLU,REV,MIX	
+MALHA			.25		18.13	1	0827			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	8	08		2	08D				GAR,YEL,MIX	
+MALHA			.25		18.13	1	0828			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08D				SGAR,OR,MIX	
+MALHA			.25		18.13	1	0829			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		2	08D				GAR,REV,RED,MIX	
+MALHA			.25		18.13	1	0830			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		2	08D				SGAR,REV,MIX,RED	
+MALHA			.25		18.13	1	0831			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	8	08		2	08D				GAR,YEL,MIX	
+MALHA			.25		18.13	1	0832			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08D				SGAR,BLU,REV,MIX	
+MALHA			.25		18.7	1	0833			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08D				GAR,NE,RED,MIX	
+MALHA			.25		18.13	1	0834			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		4	08D				SGAR,BLU,REV	
+MALHA			.25		18.7	1	0835			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	8	08		2	08G				GAR,NE,REV,RED,MIX	
+MALHA			.25		18.7	1	0836			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08G				SGAR,NE,OR,REV,MIX	
+MALHA			.25		18.7	1	0837			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08G				GAR,NE,GR,MIX	
+MALHA			.25		18.7	1	0838			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		2	08G				SGAR,NE,OR,REV,MIX	
+MALHA			.25		18.7	1	0839			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	8	08		2	08G				GAR,NE,YEL,REV,MIX	
+MALHA			.25		18.7	1	0840			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		4	08G				SGAR,NE,QT,RED	
+MALHA			.25		18.7	1	0841			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08G				SGAR,NE,QT,RED,MIX	
+MALHA			.25		18.7	1	0842			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		4	08G				SGAR,ST,QT,MIX,RED	
+MALHA			.25		23.16	1	0843			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08G				SGAR,ST,YEL,LRG,NSH,MIX	
+MALHA			.25		20.96	1	0844			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,YEL,ST,MIX	
+MALHA			.25		20.96	1	0845			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,ST,RED,MIX	
+MALHA			.25		20.96	1	0847			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,RED,MIX	
+MALHA			.25		20.96	1	0848			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,YEL,MIX	
+MALHA			.25		20.96	1	0849			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,RED,MIX	
+MALHA			.25		20.96	1	0850			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,RED,MIX	
+MALHA			.25		20.96	1	0851			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0852			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0853			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08	21DAYRO	4	08K				GAR,AWY,YEL,ST,MIX	
+MALHA			.25		20.96	1	0854			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,AWY,YEL,ST	
+MALHA			.5		20.96	1	0855			N		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa beds small	1.5	0	1	8	08		4	08M				GAR,AWY,ST,REV,SFB,RED	
+MALHA			.5		31.72	1	0856			Y		N		NS	XKLG	SU JR	1x Kingbed with sofa bed large	1.5	0	1	8	08		4	08M				GAR,AWY,YEL,LRG,SFB,MIX	
+MALHA			.25		20.96	1	0857			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08M				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0858			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08M				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0859			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08M				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0860			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08M				GAR,AWY,ST,RED,MIX	
+MALHA			.25		20.96	1	0861			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08M				GAR,AWY,YEL,ST,MIX	
+MALHA			.25		18.17	1	0901			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09D				GAR,NE,ST,GR	
+MALHA			.25		18.17	1	0902			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09D				SGAR,NE,ST,OR,REV	
+MALHA			.25		18.17	1	0903			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09D				GAR,NE,GR,MIX	
+MALHA			.25		18.17	1	0904			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09D				SGAR,NE,BLU,LBA,MIX	
+MALHA			.25		18.17	1	0905			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09D				GAR,NE,YEL,LBA,MIX	
+MALHA			.25		18.17	1	0906			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09D				SGAR,NE,LBA,OR,MIX	
+MALHA			.25		18.17	1	0907			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09D				GAR,GR,LBA,MIX	
+MALHA			.25		18.17	1	0908			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09D				SGAR,LBA,OR,MIX	
+MALHA			.25		18.17	1	0909			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09D				GAR,LBA,MIX,RED	
+MALHA			.25		18.17	1	0910			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09D				SGAR,LBA,RED,MIX	
+MALHA			.25		18.17	1	0911			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09D				GAR,LBA,MIX,RED	
+MALHA			.25		18.17	1	0912			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09D				SGAR,LBA,RED,MIX	
+MALHA			.25		18.17	1	0913			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09D				GAR,LBA,MIX,RED	
+MALHA			.25		18.17	1	0914			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09D				SGAR,LBA,OR,MIX	
+MALHA			.25		17.66	1	0915			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09D				GAR,RED	
+MALHA			.25		18.17	1	0916			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09D				SGAR,BLU,LBA	
+MALHA			.25		17.66	1	0917			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09G				GAR,RED,MIX	
+MALHA			.25		17.66	1	0918			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09G				SGAR,OR	
+MALHA			.25		17.66	1	0919			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09G				GAR,NE,YEL,MIX	
+MALHA			.25		17.66	1	0920			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09G				SGAR,NE,BLU,MIX	
+MALHA			.25		18.69	1	0921			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09G				GAR,NE,YEL,MIX	
+MALHA			.25		17.66	1	0922			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		2	09G				SGAR,NE,BLU,MIX	
+MALHA			.25		18.69	1	0923			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09G				GAR,NE,RED,MIX	
+MALHA			.25		18.69	1	0924			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09G				SGAR,NE,OR,MIX	
+MALHA			.25		18.69	1	0925			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09G				GAR,NE,RED,MIX	
+MALHA			.25		18.69	1	0926			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09G				SGAR,NE,OR,MIX	
+MALHA			.25		18.69	1	0927			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09G				GAR,NE,REV,RED,MIX	
+MALHA			.25		18.7	1	0928			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09G				SGAR,NE,LBA,RED,MIX	
+MALHA			.25		18.7	1	0929			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09G				SGAR,NE,LBA,RED,MIX	
+MALHA			.25		18.7	1	0930			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09G				SGAR,NE,LBA,RED,MIX	
+MALHA			.25		18.7	1	0931			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	9	09		4	09G				SGAR,ST,LBA,MIX,RED	
+MALHA			.25		23.16	1	0932			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	9	09		2	09G				SGAR,ST,LBA,NSH,MIX,RED	
+MALHA			.25		20.96	1	0933			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K				GAR,ST,GR,MIX	
+MALHA			.25		20.96	1	0934			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09K			0935	CON,GAR,YEL,ST,MIX	
+MALHA			.25		20.96	1	0935			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K			0934	CON,GAR,YEL,ST,MIX	
+MALHA			.25		20.96	1	0936			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09K			0937	CON,GAR,GR,MIX	
+MALHA			.25		20.96	1	0937			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K			0936	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0938			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09K			0939	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0939			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K			0938	CON,GAR,AWY,RED,MIX	
+MALHA			.25		20.96	1	0940			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09K			0941	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0942			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09K			0943	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0943			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K			0942	CON,GAR,AWY,YEL	
+MALHA			.5		20.96	1	0944			N		N		NS	KOTG	DLX FAM	2 Queen beds and 1 small sofa bed	1.5	0	1	9	09		4	07M				GAR,AWY,ST,GR,REV,SFB	
+MALHA			.5		31.72	1	0945			Y		N		NS	XKLG	SU JR	1 King beds with sofa bed large	1.5	0	1	9	09		4	09M				GAR,AWY,LRG,MIX,RED,SFB	
+MALHA			.25		20.96	1	0946			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4				0947	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0947			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09M			0946	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	0948			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09M			0949	CON,GAR,AWY,ST,MIX,RED	
+MALHA			.25		20.96	1	0949			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	9	09		2	09M			0948	CON,GAR,AWY,YEL,ST,MIX	
+MALHA			.25		20.96	1	0950			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		2	09M				GAR,AWY,YEL,ST,REV,MIX	
+MALHA			.25		18.69	1	1001			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10G				GAR,TLF,AWY,ST,RED	
+MALHA			.25		18.69	1	1002			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,TLF,AWY,BLU,ST	
+MALHA			.25		18.69	1	1003			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10G				GAR,TLF,AWY,YEL,ST,MIX	
+MALHA			.25			1	1004			Y		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10G				SGAR,TLF,AWY,ST,OR,REV,MIX	
+MALHA			.25		18.69	1	1005			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10G				GAR,YEL,MIX	
+MALHA			.25		18.69	1	1006			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,REV,MIX,RED	
+MALHA			.25		18.69	1	1007			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10G				GAR,YEL	
+MALHA			.25			1	1008			Y		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10G				SGAR,OR,REV	
+MALHA			.25		18.69	1	1010			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,OR,REV	
+MALHA			.25		18.69	1	1012			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		4	10G				SGAR,OR,REV,MIX	
+MALHA			.25		18.69	1	1014			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,OR,REV,MIX	
+MALHA			.25		18.69	1	1015			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10G				GAR,YEL,MIX	
+MALHA			.25		18.69	1	1017			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10G				GAR,RED,MIX	
+MALHA			.25		18.69	1	1018			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,OR,REV,MIX	
+MALHA			.25		18.69	1	1019			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10G				GAR,YEL,MIX	
+MALHA			.25		18.69	1	1020			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,YEL,MIX	
+MALHA			.25		18.69	1	1021			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				SGAR,YEL,MIX	
+MALHA			.25		18.69	1	1023			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10G				TOW,YEL,ST,MIX	
+MALHA			.5		53.25	1	1025			Y		N		NS	XOTG	SU	2 king bed and 1 sofa beds big	1.5	0	1	10	10		6	10K				TOW,BLU,ST,LRG,REV,MIX,SFB	
+MALHA			.25			1	1026			Y		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K				GAR,ST,RED,MIX	
+MALHA			.25		20.96	1	1027			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10K				TOW,ST,OR,MIX	
+MALHA			.25		20.96	1	1028			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10K			1030	CON,GAR,ST,RED,MIX	
+MALHA			.25		20.96	1	1029			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10K				TOW,REV,MIX,RED	
+MALHA			.25		20.96	1	1030			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K			1028	CON,GAR,MIX,RED	
+MALHA			.25		20.96	1	1031			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10K				TOW,REV,MIX,RED	
+MALHA			.25		20.96	1	1032			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10K				GAR,RED,MIX	
+MALHA			.25		20.96	1	1033			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10K				TOW,AWY,REV,MIX,RED	
+MALHA			.25		20.96	1	1034			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1035			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10K				TOW,AWY,REV,MIX,RED	
+MALHA			.25		20.96	1	1036			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1037			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		4	10K				TOW,AWY,OR,REV,MIX	
+MALHA			.25		20.96	1	1038			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1039			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		4	10K				TOW,AWY,OR,MIX	
+MALHA			.25		20.96	1	1040			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1041			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		2	10K				TOW,AWY,OR,MIX	
+MALHA			.25		20.96	1	1042			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K				GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1043			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		4	10K				TOW,AWY,OR,MIX	
+MALHA			.25		20.96	1	1044			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10K			1046	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1045			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	10	10		2	10K				TOW,AWY,OR	
+MALHA			.25		20.96	1	1046			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10K			1044	CON,GAR,AWY,YEL	
+MALHA			.5		30.66	1	1047			N		N		NS	TOTG	DLX FAM	2 King beds and 1 sofa bed big	1.5	0	1	10	10		5	10M				TOW,AWY,ST,OR,LRG,SFB	
+MALHA			.5		42.37	1	1048			N		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa beds small	1.5	0	1	10	10		2	10M				GAR,AWY,YEL,ST,LRG,REV,SFB	
+MALHA			.5		33.59	1	1049			N		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa beds small	1.5	0	1	10	10		4	10M				TOW,AWY,ST,LRG,RED,MIX	
+MALHA			.5		31.72	1	1050			Y		N		NS	XKLG	SU JR	1x kingbed with sofa bed large	1.5	0	1	10	10		4	10M				GAR,AWY,LRG,MIX,RED,SFB	
+MALHA			.25		20.96	1	1051			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10M			1052	CON,GAR,AWY,YEL,MIX	
+MALHA			.25		20.96	1	1052			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10M			1051	CON,GAR,AWY,YEL,LBA,MIX	
+MALHA			.25		20.96	1	1053			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10M			1054	CON,GAR,AWY,LBA,RED,MIX	
+MALHA			.25		20.96	1	1054			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10M			1053	CON,GAR,AWY,YEL,ST,LBA,MIX	
+MALHA			.25		20.96	1	1055			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		4	10M				GAR,AWY,YEL,ST,LBA,MIX	
+MALHA			1		40.05	1	1101			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	11	11		4	11G				PAN,ST,GR,TER,LRG,MIX,SFB	
+MALHA			1		40.05	1	1102			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	11	11		4	11G				PAN,ST,QT,GR,TER,LRG,MIX,SFB	
+MALHA			.25		18.7	1	1103			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11G				GAR,RED	
+MALHA			.25		18.7	1	1104			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11G				SGAR,QT,OR,REV	
+MALHA			.25		18.7	1	1105			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11G				GAR,RED,MIX	
+MALHA			.25		18.7	1	1106			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11G				SGAR,QT,OR,REV,MIX	
+MALHA			.25		18.7	1	1107			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11G				GAR,YEL,MIX	
+MALHA			.25		18.7	1	1108			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11G				SGAR,QT,OR,REV,MIX	
+MALHA			.25		18.7	1	1109			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11G				GAR,NE,QT,RED,MIX	
+MALHA			0		18.7	1	1111			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11G				GAR,NE,YEL,MIX	
+MALHA			0		18.7	1	1112			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11G				SGAR,NE,QT,OR,SBA,REV,MIX	
+MALHA			0		18.7	1	1113			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11G				GAR,NE,YEL,MIX	
+MALHA			0		18.7	1	1115			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11G				GAR,NE,RED,MIX	
+MALHA			0		18.7	1	1116			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11G				SGAR,NE,YEL,QT,SBA,MIX	
+MALHA			0		18.7	1	1117			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11G				SGAR,NE,QT,RED,MIX	
+MALHA			0		18.7	1	1118			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11G				SGAR,NE,QT,RED,MIX	
+MALHA			0		18.7	1	1119			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11G				SGAR,YEL,ST,QT,MIX	
+MALHA			0		23.16	1	1120			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11G				SGAR,ST,YEL,REV,NSH,MIX	
+MALHA			.5		53.25	1	1121			Y		N		NS	XOTG	SU	family suite - 2 ROOMS 1 bed king and one sofa bed big	1.5	0	1	11	11		6	11K				TOW,ST,LBA,RED,SFB	
+MALHA			0		20.96	1	1122			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K				GAR,ST,RED,MIX	
+MALHA			0		20.96	1	1123			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11K			1125	CON,TOW,OR,MIX	
+MALHA			0		20.96	1	1124			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11K			1126	CON,RED,MIX	
+MALHA			0		20.96	1	1125			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11K			1123	CON,TOW,RED,MIX	
+MALHA			0		20.96	1	1126			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K			1124	CON,GAR,MIX,RED	
+MALHA			0		20.96	1	1127			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11K				TOW,OR,REV,MIX	
+MALHA			0		20.96	1	1128			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11K				GAR,RED,MIX	
+MALHA			0		20.96	1	1129			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11K				TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1130			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K				GAR,AWY,RED,MIX	
+MALHA			0		20.96	1	1131			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11K				TOW,AWY,REV,MIX,RED	
+MALHA			0		20.96	1	1132			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11K				GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1133			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11K				TOW,AWY,REV,MIX,RED	
+MALHA			0		20.96	1	1134			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K				GAR,AWY,RED,MIX	
+MALHA			0		20.96	1	1135			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11K				TOW,AWY,REV,MIX,RED	
+MALHA			0		20.96	1	1136			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11K				GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1137			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11K				TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1138			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K				GAR,AWY,RED,MIX	
+MALHA			0		20.96	1	1139			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11K			1141	CON,TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1140			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11K			1142	CON,GAR,AWY,RED,MIX	
+MALHA			0		20.96	1	1141			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	11	11		4	11K			1139	CON,TOW,AWY,OR,REV	
+MALHA			0		20.96	1	1142			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11K			1140	CON,GAR,AWY,RED	
+MALHA			.5		30.66	1	1143			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1.5	0	1	11	11		5	11M				TOW,AWY,OR,LRG,REV,SFB	
+MALHA			.5		42.37	1	1144			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1.5	0	1	11	11		4	11M				GAR,AWY,YEL,ST,LRG,REV,SFB	
+MALHA			.5		33.59	1	1145			N		N		NS	KOTG	DLX FAM	King bed and 1 sofa beds large	1.5	0	1	11	11		4	11M				TOW,AWY,ST,OR,LRG,REV,MIX	
+MALHA			.5		31.72	1	1146			Y		N		NS	XKLG	SU JR	1x King with sofa bed large	1.5	0	1	11	11		4	11M				GAR,AWY,LRG,MIX,RED,SFB	
+MALHA			0		20.96	1	1147			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11M			1148	CON,GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1148			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11M			1147	CON,GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1149			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11M			1150	CON,GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1150			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	11	11		2	11M			1149	CON,GAR,AWY,YEL,ST,MIX	
+MALHA			0		20.96	1	1151			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	11	11		4	11M				GAR,AWY,ST,GR,MIX	
+MALHA			0		40.05	1	1201			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	12	12		4	12G				PAN,ST,GR,TER,LRG,MIX,SFB	
+MALHA			0		40.05	1	1202			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	12	12		2	12G				PAN,ST,QT,GR,TER,LRG,MIX	
+MALHA			0		18.7	1	1203			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	12	12		4	12G				GAR,GR,MIX	
+MALHA			0		18.7	1	1204			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	12	12		4	12G				SGAR,BLU,QT,REV,MIX	
+MALHA			0		18.7	1	1205			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12G				GAR,YEL,MIX	
+MALHA			0		18.7	1	1206			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,QT,OR,MIX	
+MALHA			0		18.7	1	1207			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12G				GAR,NE,YEL,MIX	
+MALHA			0		18.7	1	1208			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,NE,QT,OR,REV,MIX	
+MALHA			0		18.7	1	1209			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12G				GAR,NE,YEL,MIX	
+MALHA			0		18.7	1	1210			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,NE,QT,REV,RED,MIX	
+MALHA			0		18.7	1	1211			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12G				GAR,NE,YEL,SBA,MIX	
+MALHA			0		18.07	1	1213			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12G				GAR,NE,GR,MIX	
+MALHA			0		18.7	1	1214			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,NE,YEL,QT,SBA,MIX	
+MALHA			0		18.7	1	1215			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,NE,YEL,QT,MIX	
+MALHA			0		18.7	1	1216			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,NE,QT,RED,MIX	
+MALHA			0		18.7	1	1217			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,YEL,ST,QT,MIX	
+MALHA			0		23.16	1	1218			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12G				SGAR,TOW,ST,YEL,LRG,REV,NSH,MIX	
+MALHA			.5		53.25	1	1219			Y		N		NS	XOTG	SU	family suite - 2x King beds, 1 sofabeds small ( Separate living room )	1.5	0	1	12	12		6	12K				ST,GR,LRG,SFB,MIX	
+MALHA			0		20.96	1	1220			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				GAR,ST,GR,MIX	
+MALHA			0		20.96	1	1221			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	12	12		4	12K			1223	CON,TOW,BLU,MIX	
+MALHA			0		20.96	1	1222			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	12	12		4	12K				CON,GAR,GR,MIX	
+MALHA			0		20.96	1	1223			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K			1221	CON,TOW,OR,MIX	
+MALHA			0		20.96	1	1224			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				CON,GAR,YEL,MIX	
+MALHA			0		20.96	1	1225			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,BLU,MIX	
+MALHA			0		20.96	1	1226			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				GAR,GR,MIX	
+MALHA			0		20.96	1	1227			N		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	12	12		4	12K				TOW,AWY,BLU,MIX	
+MALHA			0		20.96	1	1228			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	12	12		4	12K				GAR,AWY,YEL,MIX	
+MALHA			0		20.96	1	1229			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,AWY,BLU,MIX	
+MALHA			0		20.96	1	1230			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1231			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,AWY,BLU,REV,MIX	
+MALHA			0		20.96	1	1232			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1233			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,AWY,BLU,REV,MIX	
+MALHA			0		20.96	1	1234			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K				GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1235			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,AWY,BLU,REV,MIX	
+MALHA			0		20.96	1	1236			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	12	12		4	12K				GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1237			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	12	12		2	12K				TOW,AWY,BLU,REV,MIX	
+MALHA			0		20.96	1	1238			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12K			1240	CON,GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1239			Y		N		NS	TSTG	DLX	Deluxe Twin Town View	1	0	.5	12	12		4					TOW,AWY,BLU,REV	
+MALHA			0		20.96	1	1240			N		N		NS	TPLG	DLX PAN	Deluxe Twin Panoramic	1	0	.5	12	12		4	12K			1238	CON,GAR,AWY,YEL	
+MALHA			.5		30.66	1	1241			N		N		NS	TOTG	DLX FAM	2 king bed and 1 sofa bed small	1.5	0	1	12	12		5	12M				TOW,AWY,ST,OR,LRG,REV,SFB	
+MALHA			.5		42.37	1	1242			N		N		NS	KOTG	DLX FAM	1 king bed and 1 Sofabed small	1.5	0	1	12	12		2	12M				GAR,AWY,ST,LRG,SFB,RED	
+MALHA			.5		33.59	1	1243			N		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa beds small	1.5	0	1	12	12		4	12M				TOW,AWY,ST,OR,LRG,REV,MIX	
+MALHA			.5		31.72	1	1244			Y		N		NS	XKLG	SU JR	1x king beds with sofa bed small	1.5	0	1	12	12		4	12M	12M			GAR,AWY,YEL,LRG,SFB,MIX	
+MALHA			0		20.96	1	1245			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12M			1246	CON,GAR,AWY,RED,MIX	
+MALHA			0		20.96	1	1246			Y		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12M			1245	CON,GAR,AWY,GR,MIX	
+MALHA			0		20.96	1	1247			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1	0	.6	12	12		4	12M				GAR,AWY,GR,MIX,SFB	
+MALHA			0			1	1248			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12M				GAR,AWY,ST,GR,MIX	
+MALHA			0		20.96	1	1249			N		N		NS	KPLG	DLX PAN	Deluxe King Panoramic	1	0	.5	12	12		2	12M				GAR,AWY,ST,GR,MIX	
+MALHA			0		40.05	1	1301			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	12	13		4	13G	13E			PAN,ST,TER,LRG,SFB,MIX,RED	
+MALHA			0		40.05	1	1302			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	12	13		4	13G	13E			PAN,ST,QT,GR,LRG,MIX,SFB	
+MALHA			0		18.7	1	1303			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13G	13E			TLF,PAN,YEL	
+MALHA			0		18.7	1	1304			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13E			SGAR,NE,QT,OR,REV	
+MALHA			0		18.7	1	1305			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13G	13E			PAN,NE,MIX,RED	
+MALHA			0		18.7	1	1306			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13E			SGAR,NE,QT,OR,REV,MIX	
+MALHA			0		18.7	1	1307			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13G	13E			PAN,NE,GR,MIX	
+MALHA			0		18.7	1	1308			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13E			SGAR,NE,QT,OR,REV,MIX	
+MALHA			0		18.7	1	1309			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13G	13E			PAN,NE,YEL,VINYL,MIX	
+MALHA			0		18.7	1	1311			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13G	13G			PAN,NE,YEL,MIX	
+MALHA			0		18.7	1	1312			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13G			SGAR,NE,GR,QT,REV,MIX	
+MALHA			0		18.7	1	1313			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13G			SGAR,NE,GR,QT,REV,MIX	
+MALHA			0		18.7	1	1314			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13G			SGAR,NE,GR,QT,REV,MIX	
+MALHA			0		18.7	1	1315			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13G			SGAR,ST,GR,QT,REV,MIX	
+MALHA			0		23.16	1	1316			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13G	13G			SGAR,ST,GR,LRG,REV,NSH,MIX	
+MALHA			.5		53.25	1	1317			Y		N		NS	XOTG	SU	2  King beds and 1 sofa bed big	1.5	0	1		13		6	13K	13K			TOW,ST,OR,LRG,SFB	
+MALHA			0		20.96	1	1318			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K			PAN,ST,RED,MIX	
+MALHA			0		20.96	1	1319			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13K	13K		1321	CON,TOW,VINYL,MIX,RED	
+MALHA			0		20.96	1	1320			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K		1322	CON,PAN,VINYL,RED,MIX	
+MALHA			0		20.96	1	1321			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	13	13		4	13K	13K		1319	CON,TOW,VINYL,MIX,RED	
+MALHA			0		20.96	1	1322			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	13	13		4	13K	13K		1320	CON,PAN,YEL,VINYL,MIX	
+MALHA			0		20.96	1	1323			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13K	13K			TOW,BLU,VINYL,MIX	
+MALHA			0		20.96	1	1324			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		4	13K	13K			PAN,YEL,VINYL,MIX	
+MALHA			0		20.96	1	1325			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	13	13		4	13K	13K			TOW,OR,MIX	
+MALHA			0		20.96	1	1326			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K			PAN,YEL,VINYL,MIX	
+MALHA			0		20.96	1	1327			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13K	13K			TOW,OR,REV,MIX,VINYL	
+MALHA			0		20.96	1	1328			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K			PAN,YEL,VINYL,MIX	
+MALHA			0		20.96	1	1329			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	13	13		4	13K	13K			TOW,AWY,OR,REV,MIX,VINYL	
+MALHA			0		20.96	1	1330			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	13	13		4	13K	13K			PAN,AWY,YEL,MIX	
+MALHA			0		20.96	1	1331			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13K	13K			TOW,AWY,REV,VINYL,MIX,RED	
+MALHA			0		20.96	1	1332			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K			PAN,AWY,RED,MIX	
+MALHA			0		20.96	1	1333			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	13	13		4	13K	13K			TOW,AWY,OR,REV,MIX,VINYL	
+MALHA			0		20.96	1	1334			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	13	13		4	13K	13K			PAN,AWY,YEL,MIX,VINYL	
+MALHA			0		20.96	1	1335			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	13	13		2	13K	13K			TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1336			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13K	13K			PAN,AWY,YEL,MIX,VINYL	
+MALHA			0		20.96	1	1337			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	13	13		4	13K				TOW,AWY,OR,REV,VINYL	
+MALHA			0		20.96	1	1338			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	13	13		4	13K	13K			PAN,AWY,GR,VINYL	
+MALHA			.5		30.66	1	1339			Y		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1.5	0	1	13	13		5	13M	13M			TOW,AWY,ST,OR,LRG,REV,SFB	
+MALHA			.5		42.37	1	1340			Y		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa bed small	1.5	0	1	13	13		4	13M	13M			GAR,PAN,AWY,ST,GR,LRG,REV,SFB	
+MALHA			.5		33.59	1	1341			Y		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa bed small	1.5	0	1	13	13		4	13M	13M			TOW,AWY,ST,OR,SBA,LRG,REV,MIX	
+MALHA			.5		31.72	1	1342			Y		N		NS	XKLG	SU JR	1x king beds with 1x sofa bed small	1.5	0	1	13	13		4	13M	13M			PAN,AWY,YEL,LRG,SFB,MIX	
+MALHA			0		20.96	1	1343			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13M	13M			PAN,AWY,YEL,MIX,VINYL	
+MALHA			0		20.96	1	1344			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13M	13M			PAN,AWY,YEL,MIX,VINYL	
+MALHA			0		20.96	1	1345			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13M	13M			PAN,AWY,YEL,MIX,VINYL	
+MALHA			0		20.96	1	1346			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13M	13M			PAN,AWY,MIX,VINYL,RED	
+MALHA			0		20.96	1	1347			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	13	13		2	13M	13M			PAN,AWY,MIX,VINYL,RED	
+MALHA			0		40.05	1	1401			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	14	14		4	14G	14G			PAN,ST,GR,MIX,SFB	
+MALHA			0		40.05	1	1402			Y		N		NS	XCIG	SU DLX	TERRACE SUITE	3	0	1.5	14	14		4	14G	14G			PAN,ST,QT,GR,MIX,SFB	
+MALHA			0		19.26	1	1403			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14G	14G			PAN,NE,GR,VINYL,MIX	
+MALHA			0		19.26	1	1404			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14G	14G			SGAR,NE,QT,OR,REV,MIX	
+MALHA			0		19.26	1	1405			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14G	14G			PAN,NE,GR,VINYL,MIX	
+MALHA			0		19.26	1	1406			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,NE,QT,OR,REV,MIX	
+MALHA			0		19.26	1	1407			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14G	14G			PAN,NE,YEL,MIX	
+MALHA			0		19.26	1	1410			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,NE,BLU,QT,REV,MIX	
+MALHA			0		19.26	1	1411			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,NE,BLU,QT,MIX	
+MALHA			0		19.26	1	1412			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,NE,YEL,QT,MIX	
+MALHA			0		19.26	1	1413			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,ST,GR,QT,MIX	
+MALHA			0		23.16	1	1414			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14G	14G			SGAR,ST,GR,LRG,REV,NSH,MIX	
+MALHA			.5		53.25	1	1415			Y		N		NS	XOTG	SU	FS 2 King beds and 1 sofa bed small	1.5	0	1	14	14		6	14K	14K			TOW,YEL,ST,QT,LRG,MIX,SFB	
+MALHA			0		42.37	1	1416			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K			PAN,ST,GR,LRG,MIX	
+MALHA			0		33.59	1	1417			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14K	14K		1419	CON,TOW,OR,LRG,MIX	
+MALHA			0		20.96	1	1418			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14K	14K		1420	CON,PAN,GR,MIX	
+MALHA			0		20.96	1	1419			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14K	14K		1417	CON,TOW,BLU,MIX	
+MALHA			0		20.96	1	1420			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K		1418	CON,PAN,YEL,MIX	
+MALHA			0		20.96	1	1421			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14K	14K			TOW,OR,MIX	
+MALHA			0		20.96	1	1422			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K			PAN,GR,MIX	
+MALHA			0		20.96	1	1423			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14K	14K			TOW,OR,MIX	
+MALHA			0		20.96	1	1424			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14K	14K			PAN,YEL,MIX	
+MALHA			0		20.96	1	1425			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14K	14K			TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1426			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K			PAN,AWY,YEL,MIX	
+MALHA			0		20.96	1	1427			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14K	14K			TOW,AWY,BLU,REV,MIX	
+MALHA			0		20.96	1	1428			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14K	14K			PAN,AWY,YEL,MIX	
+MALHA			0		.96	1	1429			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14K	14K			TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1430			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K			PAN,AWY,GR,MIX	
+MALHA			0		20.96	1	1431			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14K	14K			TOW,AWY,OR,REV,MIX	
+MALHA			0		20.96	1	1432			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14K	14K			PAN,AWY,YEL,MIX	
+MALHA			0		20.96	1	1433			Y		N		NS	KBUG	CL	King Club City View	1	0	.5	14	14		2	14K	14K		1435	CON,TOW,AWY,REV,RED,MIX	
+MALHA			0		20.96	1	1434			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14K	14K		1436	CON,PAN,AWY,YEL,MIX	
+MALHA			0		20.96	1	1435			Y		N		NS	TBUG	CL	Twin Club City View	1	0	.5	14	14		4	14K	14K		1433	CON,TOW,AWY,OR,REV	
+MALHA			0		20.96	1	1436			Y		N		NS	TCIG	CL	Club Twin Panoramic	1	0	.5	14	14		4	14K	14K		1434	CON,PAN,AWY,YEL,REV	
+MALHA			.5		30.66	1	1437			Y		N		NS	KOTG	DLX FAM	Deluxe King Family Room	1.5	0	1	14	14		5	14M	14M			TOW,AWY,ST,OR,LRG,REV,SFB	
+MALHA			.5		42.37	1	1438			Y		N		NS	KOTG	DLX FAM	1 king bed and 1 sofa beds large	1.5	0	1	14	14		4	14M	14M			GAR,PAN,AWY,YEL,ST,LRG,REV,SFB	
+MALHA			.5		33.59	1	1439			Y		N		NS	KOTG	DLX FAM	1x King bed and 1x sofa large	1.5	0	1	14	14		4	14M	14M			TOW,AWY,ST,LRG,REV,MIX,RED	
+MALHA			.5		31.72	1	1440			Y		N		NS	XKLG	SU JR	1x king with sofa bed - large	1.5	0	1	14	14		4	14M	14M			PAN,AWY,GR,LRG,SFB,MIX	
+MALHA			0		20.96	1	1441			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14M	14M			PAN,AWY,YEL,MIX	
+MALHA			0		20.96	1	1442			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14M	14M			PAN,AWY,GR,MIX	
+MALHA			0		20.96	1	1443			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14M	14M			PAN,AWY,ST,MIX,RED	
+MALHA			0		20.96	1	1444			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14M	14M			PAN,AWY,ST,MIX,RED	
+MALHA			0		20.96	1	1445			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14M	14M			PAN,AWY,YEL,MIX	
+MALHA			.5		44.53	1	1501			Y		N		NS	XKLG	SU JR	1 king bed and 1 sofa bed small	1.5	0	1	15	15		4	15K	15K			TOW,NE,YEL,ST,LRG,MIX,SFB	
+MALHA			1		53.56	1	1502			Y		N		NS	XFTG	SU LUXURY	Ambassador Suite	4	0	2	15	15		6	15K	15K			PAN,NE,GR,MIX	
+MALHA			.5		16.15	1	1503			Y		N		NS	XLOG	SU DLX	Deluxe Suite	1.5	0	1	15	15		2	15K	15K			TOW,ST,GR,MIX	
+MALHA			1		16.15	1	1504			Y		N		NS	XLOG	SU DLX	Deluxe Suite - 1x king, 1 sofabed large	2	0	1.5	15	15		4	15K	15K			PAN,GR,MIX	
+MALHA			.5		16.6	1	1505			Y		N		NS	XLOG	SU DLX	Deluxe Suite	1.5	0	1	15	15		2	15K	15K			TOW,GR,SFB,MIX	
+MALHA			1		16.17	1	1506			Y		N		NS	XLOG	SU DLX	Deluxe Suite 1x king, 1 sofabed large	2	0	1.5	15	15		4	15K	15K		1508	CON,PAN,AWY,GR,SFB,MIX	
+MALHA			.5		16.17	1	1507			Y		N		NS	XLOG	SU DLX	Deluxe Suite	1.5	0	1	15	15		4	15K	15K		1509	CON,TOW,AWY,GR,MIX	
+MALHA			1		16.17	1	1508			Y		N		NS	XLOG	SU DLX	Deluxe Suite 1x king, 1 sofabed large	2	0	1.5	15	15		4	15K	15K		1506	CON,PAN,AWY,QT,GR,SFB,MIX	
+MALHA			.5		16.18	1	1509			Y		N		NS	XLOG	SU DLX	Deluxe Suite	1.5	0	1	15	15		2	15K	15K		1507	CON,TOW,AWY,GR,SFB,MIX	
+MALHA			1	140cm mattress	16.18	1	1510			Y		N		NS	XLOG	SU DLX	Deluxe Suite 1x king, 1 sofabed large	2	0	1.5	15	15		4	15K	15K			PAN,AWY,QT,GR,SFB,MIX	
+MALHA			.5		16.18	1	1511			Y		N		NS	XLOG	SU DLX	Deluxe Suite	1.5	0	1	15	15		4	15K	15K			TOW,AWY,GR,SFB,MIX	
+MALHA			1		42.37	1	1512			Y		N		NS	XKLG	SU JR	1 king bed and 1 sofa bed small	2	0	1.5	15	15		4	15M	15M		1516	CON,GAR,PAN,AWY,ST,YEL,SFB,MIX	
+MALHA			.5		30.66	1	1513			Y		N		NS	XKLG	SU JR	1 king bed and 1 sofa bed large	1.5	0	1	15	15		4	15M	15M			TOW,AWY,ST,GR,SFB,MIX	
+MALHA			.5		33.59	1	1515			Y		N		NS	XKLG	SU JR	Junior Suite	1.5	0	1	15	15		2	15M	15M			TOW,AWY,YEL,MIX	
+MALHA			1		31.72	1	1516			Y		N		NS	XKLG	SU JR	1 king bed and 1 sofa bed large	2	0	1.5	15	15		4	15M	15M		1512,1600	CON,PAN,AWY,GR,SFB,MIX	
+MALHA			2		117.83	1	1600			Y		N		NS	XVUG	SU PRES	Presidential Suite - 1x King, 1x sofabed Large	6	0	3	15	15		4	15M	15M		1516	CON,PAN,AWY,GR,MIX	
+MALHA			3	140cm matress		1	1700			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	6	0	6		17		4					GOLD,SFB	
+MALHA			0			1	5244			Y		N			PF	GENERIC	Telephone Line Arena	0	0	0										
+MALHA			0			1	5245			Y		N			PF	GENERIC	Permanent Folio	0	0	0										
+MALHA			0			1	5246			Y		N			PF	GENERIC	Telephone Line Arena	0	0	0										
+MALHA			0			1	9970			Y		N			PM	GENERIC	Posting Master	0	0	0				5						
+MALHA	IN		0			1	CDC&F			Y		Y			S&C	GENERIC	CDC & Foyer	0	0	0	2	02		1200						
+MALHA	IN		0			2	CDCF			Y		Y			S&C	GENERIC	CDC Foyer	0	0	0	2	02		600						
+MALHA	IN		0			3	CDC			Y		Y			S&C	GENERIC	CDC	0	0	0	2	02		1000						
+MALHA	IN		0			4	CDC1			Y		Y			S&C	GENERIC	CDC 1	0	0	0	2	02		350						
+MALHA	IN		0			5	CDC2			Y		Y			S&C	GENERIC	CDC 2	0	0	0	2	02		265						
+MALHA	IN		0			6	CDC3			Y		Y			S&C	GENERIC	CDC 3	0	0	0	2	02		265						
+MALHA	IN		0			7	CDC12			Y		Y			S&C	GENERIC	CDC 1 & 2	0	0	0	2	02		452						
+MALHA	IN		0			8	CDC23			Y		Y			S&C	GENERIC	CDC 2 & 3	0	0	0	2	02		452						
+MALHA	IN		0			9	CDC1&3			Y		Y			S&C	GENERIC	CDC 1 & 3	0	0	0	2	02		452						
+MALHA	IN		0			20	JUP			Y		Y			S&C	GENERIC	Jupiter	0	0	0	2	02		100						
+MALHA	IN		0			21	SAT			Y		Y			S&C	GENERIC	Saturn	0	0	0	2	02		200						
+MALHA	IN		0			22	SAT1			Y		Y			S&C	GENERIC	Saturn 1	0	0	0	2	02		150						
+MALHA	IN		0			23	SAT2			Y		Y			S&C	GENERIC	Saturn 2	0	0	0	2	02		150						
+MALHA	IN		0			24	SAT&JUPF			Y		Y			S&C	GENERIC	Saturn & Jupiter Foyer	0	0	0	2	02		62						
+MALHA	IN		0			30	VEN			Y		Y			S&C	GENERIC	Venus	0	0	0	8	08		143						
+MALHA	IN		0			31	VEN1			Y		Y			S&C	GENERIC	Venus 1	0	0	0	8	08		74						
+MALHA	IN		0			32	VEN2			Y		Y			S&C	GENERIC	Venus 2	0	0	0	8	08		69						
+MALHA	IN		0			33	MAR			Y		Y			S&C	GENERIC	Mars	0	0	0	8	08		115						
+MALHA	IN		0			34	VEMAF			Y		Y			S&C	GENERIC	Venus/ Mars Foyer	0	0	0	8	08		143						
+MALHA	IN		0			35	ODY			Y		Y			S&C	GENERIC	Odyssey	0	0	0	5	05		42						
+MALHA	IN		0			36	APO			Y		Y			S&C	GENERIC	Apollo	0	0	0	5	05		39						
+MALHA	IN		0			37	MER			Y		Y			S&C	GENERIC	Mercury	0	0	0	5	05		39						
+MALHA	IN		0			39	HAR			Y		Y			S&C	GENERIC	Harruba Restaurant	0	0	0	4	04		348						
+MALHA	IN		0			40	HAC			Y		Y			S&C	GENERIC	Soprano	0	0	0	4	04		40						
+MALHA	IN		0			41	HAE			Y		Y			S&C	GENERIC	Harruba Esclussiva	0	0	0	4	04		100						
+MALHA	IN		0			43	AFG			Y		Y			S&C	GENERIC	Al Fresco Gardens	0	0	0	7	07		200						
+MALHA	IN		0			46	CA6			Y		Y			S&C	GENERIC	Carissa Lower Bar	0	0	0	6	06		43						
+MALHA	IN		0			47	CA7			Y		Y			S&C	GENERIC	Carissa Upper Bar	0	0	0	7	07		100						
+MALHA	IN		0			49	CUL			Y		Y			S&C	GENERIC	Carrisa Upper & Lower Bar	0	0	0	6	06		200						
+MALHA	IN		0			51	EXB			Y		Y			S&C	GENERIC	Winners Lounge	0	0	0	7	07		12						
+MALHA	IN		0			52	ECLT			Y		Y			S&C	GENERIC	Club Lounge Terrace	0	0	0	15	15		52						
+MALHA	IN		0			53	ECL			Y		Y			S&C	GENERIC	Club Lounge	0	0	0	15	15		12						
+MALHA	IN		0			65	CIN11			Y		Y			S&C	GENERIC	Cinema 11	0	0	0	1	01		223						
+MALHA	IN		0			66	CIN12			Y		Y			S&C	GENERIC	Cinema 12	0	0	0	1	01		160						
+MALHA	IN		0			67	CIN13			Y		Y			S&C	GENERIC	Cinema 13	0	0	0	1	01		146						
+MALHA	IN		0			68	CIN14			Y		Y			S&C	GENERIC	Cinema 14	0	0	0	1	01		142						
+MALHA	IN		0			70	RMS			Y		Y			S&C	GENERIC	Bedroom	0	0	0	1	01		15						
+MALHA	IN		0			71	CNVB			Y		Y			S&C	GENERIC	Converted Bedroom 1	0	0	0	1	01		12						
+MALHA	IN		0			72	CNVB5			Y		Y			S&C	GENERIC	Converted Bedroom 2	0	0	0	1	01		12						
+MALHA	IN		0			72	TRE			Y		Y			S&C	GENERIC	The Hub	0	0	0				300						
+MALHA	IN		0			73	CNVB6			Y		Y			S&C	GENERIC	Converted Bedroom 3	0	0	0	1	01		12						
+MALHA	IN		0			74	CNVB9			Y		Y			S&C	GENERIC	Converted Bedroom 4	0	0	0	1	01		12						
+MALHA	IN		0			75	CNVB10			Y		Y			S&C	GENERIC	Converted Bedroom 5	0	0	0	1	01		12						
+MALHA	IN		0			76	CNVB2			Y		Y			S&C	GENERIC	Converted Bedroom 6	0	0	0	1	01		12						
+MALHA	IN		0			77	CNVB3			Y		Y			S&C	GENERIC	Converted Bedroom 7	0	0	0	1	01		12						
+MALHA	IN		0			78	CNVB4			Y		Y			S&C	GENERIC	Converted Bedroom 8	0	0	0	1	01		12						
+MALHA	IN		0			79	CNVB8			Y		Y			S&C	GENERIC	Converted Bedroom 9	0	0	0	1	01		12						
+MALHA	IN		0			80	CNVB7			Y		Y			S&C	GENERIC	Converted Bedroom 10	0	0	0	1	01		12						
+MALHA	IN		0			81	CNVB11			Y		Y			S&C	GENERIC	Converted Bedroom 11	0	0	0	1	01		12						
+MALHA	MAIN		0			82	NEPT6			N		Y			S&C	GENERIC	Neptune II & III - IACC	0	0	0		04								
+MALHA	MAIN		0			83	NEPT7			N		Y			S&C	GENERIC	Neptune III & IV - IACC	0	0	0		04								
+MALHA	MAIN		0			84	NEPT8			N		Y			S&C	GENERIC	Neptune I & II & III - IACC	0	0	0		04								
+MALHA	MAIN		0			85	EUR4			N		Y			S&C	GENERIC	Europa I & II - IACC	0	0	0		04								
+MALHA	MAIN		0			86	EUR5			N		Y			S&C	GENERIC	Europa II & III - IACC	0	0	0		04								
+MALHA	IN		0			87	CIN6			Y		Y			S&C	GENERIC	Cinema 6	0	0	0	1	01		700						
+MALHA			0			88	1701			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		17		4					GOLD	
+MALHA			0			89	1702			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			90	1705			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			91	1706			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			92	1707			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		17		4					CON,TOW,GOLD	
+MALHA			0			93	1708			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			94	1709			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		17		4					CON,TOW,GOLD	
+MALHA			0			95	1710			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			96	1711			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		17		4					TOW,GOLD	
+MALHA			0	160cm mattresss		97	1712			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	0	0	0		17		4					GOLD,SFB	
+MALHA			0			98	1713			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		17		4					TOW,GOLD	
+MALHA			0			99	1714			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		17		4					GOLD	
+MALHA			0			100	1815			N		N			XEXG	SU LUXURY	Duplex Suite	0	0	0		18		4					GOLD	
+MALHA			0	160cm mattress		101	1716			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	0	0	0		17		4					GOLD,SFB	
+MALHA			0			102	1801			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					GOLD	
+MALHA			0	mattress 140cm		103	1802			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	0	0	0		18		4					GOLD,SFB	
+MALHA			0			104	1804			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					GOLD	
+MALHA			0			105	1803			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					GOLD	
+MALHA			0			106	1805			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		18		4					TOW,GOLD	
+MALHA			0			107	1806			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		18		4					GOLD	
+MALHA			0			108	1807			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					CON,TOW,GOLD	
+MALHA			0			109	1808			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		18		4					GOLD	
+MALHA			0			110	1809			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					CON,TOW,GOLD	
+MALHA			0			111	1810			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		18		4					GOLD	
+MALHA			0			112	1811			N		N			XSTG	SU LUXURY	Club Suite	0	0	0		18		4					TOW,GOLD	
+MALHA			0	160cm mattress		113	1812			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	0	0	0		18		4					GOLD,SFB	
+MALHA			0	mattress 160cm		114	1813			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed	0	0	0		18		4					TOW,GOLD,SFB	
+MALHA			0			115	1814			N		N			XLXG	SU LUXURY	Panoramic Suite	0	0	0		18		4					GOLD	
+MALHA			0	160cm mattress		117	1816			N		N			XLXG	SU LUXURY	Panoramic Suite with sofa bed large	0	0	0		18		4					GOLD,SFB	
+MALHA			.25		22.01		0501			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1	0	.6	5	05		3	05B				TOW,SBY,ST,OR,NBA,MIX,SFB	
+MALHA			.25		22.01		0605			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room - 2x queen beds + 1x Sofa bed small	1	0	.6	6	06		3	06B			0606	CON,SGAR,LBA,OR,SFB,MIX	
+MALHA			.25		22.42		0606			N		N		NS	KOTG	DLX FAM	Deluxe King Family Room - 1x Large King + 1 Sofabed Large	1	0	.6	6	06		4				0605	CON,BAY,TOW,SBY,OR,SFB,MIX	
+MALHA			.5		35.37		0724			N		N		NS	TOTG	DLX FAM	Deluxe Twin Family Room	1.5	0	1	7	07		4	07B				SGAR,NE,OR,LRG,SFB,MIX	
+MALHA			.25		36.01		0725			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	7	07		2	07G				SGAR,NE,YEL,ST,LRG,MIX	
+MALHA			.25		20.96		0737			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	7	07		4	07K				GAR,TLF,AWY,YEL,ST,MIX	
+MALHA			.5		20.96		0739			N		N		NS	KOTG	DLX FAM	1 king bed and 2 sofa beds small	1.5	0	1	7	07		4	07M				GAR,TLF,AWY,ST,REV,RED,SFB	
+MALHA			.25		18.13		0820			N		N		NS	KSUG	DLX	Deluxe King Small Garden	1	0	.5	8	08		2	08D				SGAR,NE,BLU,REV	
+MALHA			.25		18.13		0822			N		N		NS	TSUG	DLX	Deluxe Twin Small Garden	1	0	.5	8	08		4	08D				SGAR,NE,OR,MIX	
+MALHA			.25		20.96		0846			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	8	08		4	08K				GAR,RED,MIX	
+MALHA			.25		20.96		0941			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	9	09		4	09K			0940	CON,YEL,MIX	
+MALHA			.25		17.66		1009			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10G				GAR,YEL,MIX	
+MALHA			.25		17.66		1011			N		N		NS	TDXG	DLX	DeluxeTwin Large Garden	1	0	.5	10	10		2	10G				GAR,RED,MIX	
+MALHA			.25		17.66		1013			N		N		NS	KDXG	DLX	Deluxe King Large Garden	1	0	.5	10	10		2	10G				GAR,GR,MIX	
+MALHA			.25		17.66		1016			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10G				SGAR,BLU,REV,MIX	
+MALHA			.25		18.69		1022			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10G				SGAR,MIX,RED	
+MALHA			.25		23.16		1024			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	10	10		2	10G				SGAR,ST,YEL,LRG,REV,NSH,MIX	
+MALHA			0		18.7		1110			N		N		NS	KSTG	DLX	Deluxe King Town View	1	0	.5	11	11		2	11G				SGAR,NE,REV,MIX,RED	
+MALHA			0				1409			Y		N		NS	KCIG	CL	Club King Panoramic	1	0	.5	14	14		2	14G	14G			PAN,NE,YEL,MIX	
+MALHA			0				5050			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5051			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5052			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5053			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5054			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5055			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5056			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5057			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5058			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5059			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5060			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5204			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5206			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5214			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5215			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5216			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5218			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5219			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5225			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5226			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5227			Y		N			PF	GENERIC	Permanent Folio	0	0	0										
+MALHA			0				5228			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5229			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5230			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5240			Y		N			PF	GENERIC	Telephone Line Arena	0	0	0										
+MALHA			0				5308			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5316			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5317			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5342			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5526			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5527			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5528			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5529			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5593			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5594			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5595			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5596			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5597			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5598			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5862			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5863			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5864			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5865			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5866			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5956			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5957			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5976			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5977			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5978			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5979			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5980			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5981			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5982			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5983			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5984			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5985			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5986			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5987			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5988			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5989			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5990			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5991			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5992			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5993			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5994			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5995			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5996			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5997			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5998			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				5999			N		N			PF	GENERIC	Meeting Room	0	0	0										
+MALHA			0				9000			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9001			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9002			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9003			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9004			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9005			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9006			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9007			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9008			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9009			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9010			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9011			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9012			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9013			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9014			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9015			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9016			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9017			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9018			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9019			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9020			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9021			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9022			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9023			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9024			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9025			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9026			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9027			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9028			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9029			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9030			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9031			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9032			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9033			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9034			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9035			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9036			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9037			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9038			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9039			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9040			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9041			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9042			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9043			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9044			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9045			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9046			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9047			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9048			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9049			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9050			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9051			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9052			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9053			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9054			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9055			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9056			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9057			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9058			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9059			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9060			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9061			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9062			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9063			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9064			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9065			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9066			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9067			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9068			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9069			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9070			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9071			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9072			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9073			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9074			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9075			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9076			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9077			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9078			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9079			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9080			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9081			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9082			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9083			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9084			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9085			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9086			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9087			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9088			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9089			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9090			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9091			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9092			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9093			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9094			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9095			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9096			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9097			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9098			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9099			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9100			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9101			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9102			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9103			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9104			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9105			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9106			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9107			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9108			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9109			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9110			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9111			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9112			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9113			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9114			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9115			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9116			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9117			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9118			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9119			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9120			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9121			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9122			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9123			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9124			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9125			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9126			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9127			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9128			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9129			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9130			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9131			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9132			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9133			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9134			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9135			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9136			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9137			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9138			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9139			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9140			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9141			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9142			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9143			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9144			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9145			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9146			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9147			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9148			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9149			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9150			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9151			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9152			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9153			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9154			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9155			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9156			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9157			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9158			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9159			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9160			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9161			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9162			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9163			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9164			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9165			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9166			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9167			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9168			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9169			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9170			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9171			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9172			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9173			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9174			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9175			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9176			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9177			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9178			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9179			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9180			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9181			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9182			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9183			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9184			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9185			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9186			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9187			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9188			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9189			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9190			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9191			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9192			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9193			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9194			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9195			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9196			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9197			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9198			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9199			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9200			N		N			PM	GENERIC	Posting Master	0	0	0				1					PM	
+MALHA			0				9300			N		N			PF	GENERIC	MICROS CASH	0	0	0										
+MALHA			0				9301			N		N			PF	GENERIC	MICROS CHEQUE	0	0	0										
+MALHA			0				9303			N		N			PF	GENERIC	MICROS AMEX	0	0	0										
+MALHA			0				9304			N		N			PF	GENERIC	MICROS VISA	0	0	0										
+MALHA			0				9305			N		N			PF	GENERIC	MICROS MASTERCARD	0	0	0										
+MALHA			0				9306			N		N			PF	GENERIC	MICROS DINERS	0	0	0										
+MALHA			0				9307			N		N			PF	GENERIC	MICROS BOV	0	0	0										
+MALHA			0				9308			N		N			PF	GENERIC	MICROS JCB	0	0	0										
+MALHA			0				9309			N		N			PF	GENERIC	MICROS HSBC	0	0	0										
+MALHA			0				9310			N		N			PF	GENERIC	Heritage Malta Rebates	0	0	0										
+MALHA			0				9500			N		N			PM	GENERIC	Lost Interface Postings	0	0	0				1						
+MALHA			0				9570			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9571			N		N			DRI	GENERIC	DRI	3.5	0	2.5				4					PM	
+MALHA			0				9572			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9573			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9574			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9576			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9578			N		N			DRI	GENERIC	DRI	1.5	0	1				4					PM	
+MALHA			0				9580			N		N			DRI	GENERIC	DRI	1.5	0	1				4					PM	
+MALHA			0				9670			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9671			N		N			DRI	GENERIC	DRI	3	0	2.5				4					PM	
+MALHA			0				9672			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9673			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9674			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9675			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9676			N		N			DRI	GENERIC	DRI	2	0	1.5				4					PM	
+MALHA			0				9677			N		N			DRI	GENERIC	DRI	3.5	0	2.5				4					PM	
+MALHA			0				9678			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9680			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9770			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9771			N		N			DRI	GENERIC	DRI	3.5	0	2.5				1					PM	
+MALHA			0				9772			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9773			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9774			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9775			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9776			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9777			N		N			DRI	GENERIC	DRI	3.5	0	2.5				1					PM	
+MALHA			0				9778			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9780			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9870			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9871			N		N			DRI	GENERIC	DRI	3	0	2.5				1					PM	
+MALHA			0				9872			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9873			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9874			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9875			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9876			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9877			N		N			DRI	GENERIC	DRI	3.5	0	2.5				1					PM	
+MALHA			0				9878			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9880			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9888			N		N			PM	GENERIC	Business Centre	0	0	0				1					PM	
+MALHA			0				9971			N		N			DRI	GENERIC	DRI	3.5	0	2.5				1					PM	
+MALHA			0				9973			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9974			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9975			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9976			N		N			DRI	GENERIC	DRI	2	0	1.5				1					PM	
+MALHA			0				9977			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9978			N		N			DRI	GENERIC	DRI	1.5	0	1				1					PM	
+MALHA			0				9979			N		N			DRI	GENERIC	DRI	3.5	0	2.5				1					PM	
+MALHA	INOT		0				AGC			N		Y			S&C	GENERIC	Al Fresco Gardens & Carissa 7	0	0	0				200						
+MALHA	INOT		0				BCL			Y		Y			S&C	GENERIC	IC Beach Lido	0	0	0				1000						
+MALHA	OUT		0				BCR			N		Y			S&C	GENERIC	IC Beach Restaurant	0	0	0										
+MALHA	IN		0				BRD17			N		Y			S&C	GENERIC	Level 17 Boardroom	0	0	0										
+MALHA	IN		0				C07			Y		Y			S&C	GENERIC	Cinema 17	0	0	0	1	01		1000						
+MALHA	IN		0				C16			Y		Y			S&C	GENERIC	Cinema 16	0	0	0	1	01		700						
+MALHA	IN		0				C7F			Y		Y			S&C	GENERIC	Cinema Foyer	0	0	0	1	01		1000						
+MALHA	OUT		0				CAR			Y		Y			S&C	GENERIC	Car Park (level 2)	0	0	0	2	02		1000						
+MALHA	IN		0				CIN2			N		Y			S&C	GENERIC	Cinema 2	0	0	0										
+MALHA	IN		0				CIN3			N		Y			S&C	GENERIC	Cinema 3	0	0	0										
+MALHA	IN		0				CIN5			N		Y			S&C	GENERIC	Cinema 5	0	0	0										
+MALHA	IN		0				CLK			Y		Y			S&C	GENERIC	Level 2 Cloakroom	0	0	0	2	02								
+MALHA	MAIN		0				CLOAK			N		Y			S&C	GENERIC	IACC Cloakroom	0	0	0		04								
+MALHA	IN		0				CNVB12			N		Y			S&C	GENERIC	Converted Bedroom 12	0	0	0										
+MALHA	IN		0				CNVB13			N		Y			S&C	GENERIC	Converted bedroom 13	0	0	0										
+MALHA	IN		0				CNVB14			N		Y			S&C	GENERIC	Converted bedroom 14	0	0	0										
+MALHA	IN		0				CNVB15			N		Y			S&C	GENERIC	Converted bedroom 15	0	0	0										
+MALHA	IN		0				CNVB16			N		Y			S&C	GENERIC	Converted bedroom 16	0	0	0										
+MALHA	IN		0				CNVB17			N		Y			S&C	GENERIC	Converted bedroom 17	0	0	0										
+MALHA	IN		0				CNVB18			N		Y			S&C	GENERIC	Converted bedroom 18	0	0	0										
+MALHA	IN		0				CNVB19			N		Y			S&C	GENERIC	Converted bedroom 19	0	0	0										
+MALHA	IN		0				CNVB20			N		Y			S&C	GENERIC	Converted bedroom 20	0	0	0										
+MALHA	IN		0				CNVB21			N		Y			S&C	GENERIC	Converted bedroom 21	0	0	0										
+MALHA	IN		0				CNVB22			N		Y			S&C	GENERIC	Converted bedroom 22	0	0	0										
+MALHA	IN		0				CNVB23			N		Y			S&C	GENERIC	Converted bedroom 23	0	0	0										
+MALHA	IN		0				CNVB24			N		Y			S&C	GENERIC	Converted bedroom 24	0	0	0										
+MALHA	IN		0				CYN			Y		Y			S&C	GENERIC	Cynergi Fitness Centre	0	0	0	5	05		1000						
+MALHA	MAIN		0				ENFOY			N		Y			S&C	GENERIC	Europa & Neptune Foyer - IACC	0	0	0		04								
+MALHA	MAIN		0				EUR			N		Y			S&C	GENERIC	Europa - IACC	0	0	0		04								
+MALHA	MAIN		0				EUR1			N		Y			S&C	GENERIC	Europa I - IACC	0	0	0		04								
+MALHA	MAIN		0				EUR2			N		Y			S&C	GENERIC	Europa II - IACC	0	0	0		04								
+MALHA	MAIN		0				EUR3			N		Y			S&C	GENERIC	Europa III - IACC	0	0	0		04								
+MALHA	MAIN		0				FOYER			N		Y			S&C	GENERIC	IACC Foyer	0	0	0		04								
+MALHA	IN		0				HAS			Y		Y			S&C	GENERIC	Soprano	0	0	0	4	04		400						
+MALHA	IN		0				HLB			Y		Y			S&C	GENERIC	Hotel Lobby	0	0	0	3	03		300						
+MALHA	MAIN		0				HOSP			N		Y			S&C	GENERIC	IACC Hospitality Desk I (Hotel)	0	0	0		04								
+MALHA	MAIN		0				HOSP2			N		Y			S&C	GENERIC	IACC Hospitality Desk II (Street)	0	0	0		04								
+MALHA	MAIN		0				IACC			N		Y			S&C	GENERIC	InterContinental Arena Conference Center	0	0	0		04								
+MALHA	MAIN		0				IACCM			N		Y			S&C	GENERIC	Maurice De Cesare - IACC	0	0	0		04								
+MALHA	IN		0				IMR			Y		Y			S&C	GENERIC	Inside Meeting Room/s	0	0	0	2	02		500						
+MALHA	IN		0				JUPF			Y		Y			S&C	GENERIC	Jupiter Foyer	0	0	0	2	02		100						
+MALHA	IN		0				KDC			Y		Y			S&C	GENERIC	Kid's Club	0	0	0	2	02		100						
+MALHA	INOT		0				L12			Y		Y			S&C	GENERIC	Palm Suite 1 & 2	0	0	0	7	07		500						
+MALHA	INOT		0				L23			Y		Y			S&C	GENERIC	Palm Suite 2 & 3	0	0	0	7	07								
+MALHA	INOT		0				LEJ			Y		Y			S&C	GENERIC	Palm Suite	0	0	0	7	07		500						
+MALHA	INOT		0				LJ1			Y		Y			S&C	GENERIC	Palm Suite 1	0	0	0	7	07								
+MALHA	INOT		0				LJ2			Y		Y			S&C	GENERIC	Palm Suite 2	0	0	0	7	07								
+MALHA	INOT		0				LJ3			Y		Y			S&C	GENERIC	Palm Suite 3	0	0	0	7	07								
+MALHA	IN		0				LJF			Y		Y			S&C	GENERIC	Palm Suite Foyer	0	0	0	7	07		400						
+MALHA	IN		0				LUG			Y		Y			S&C	GENERIC	Front Desk Luggage Room	0	0	0	2	02		100						
+MALHA	MAIN		0				NEPT			N		Y			S&C	GENERIC	Neptune - IACC	0	0	0		04								
+MALHA	MAIN		0				NEPT1			N		Y			S&C	GENERIC	Neptune I - IACC	0	0	0		04								
+MALHA	MAIN		0				NEPT2			N		Y			S&C	GENERIC	Neptune II - IACC	0	0	0		04								
+MALHA	MAIN		0				NEPT3			N		Y			S&C	GENERIC	Neptune III - IACC	0	0	0		04								
+MALHA	MAIN		0				NEPT4			N		Y			S&C	GENERIC	Neptune IV - IACC	0	0	0		04								
+MALHA	MAIN		0				NEPT5			N		Y			S&C	GENERIC	Neptune I & II - IACC	0	0	0		04								
+MALHA	IN		0				OBR			Y		Y			S&C	GENERIC	Outside breakout rooms	0	0	0				1000						
+MALHA	OUT		0				OUT			Y		Y			S&C	GENERIC	Outside Catering Venue	0	0	0				1500						
+MALHA	INOT		0				PAR			Y		Y			S&C	GENERIC	Paranga Restaurant	0	0	0				350						
+MALHA	OUT		0				PARUP			N		Y			S&C	GENERIC	Paranga Upper Deck	0	0	0				120						
+MALHA	IN		0				PRES			N		Y			S&C	GENERIC	Presidential Suite	0	0	0		15								
+MALHA	OUT		0				PRL			N		Y			S&C	GENERIC	Paranga Lido	0	0	0										
+MALHA			0				PX1001			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1002			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1003			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1004			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1005			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1006			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1007			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1008			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1009			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1010			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1011			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1012			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1013			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1014			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1015			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1016			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1017			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1018			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1019			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1020			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1021			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1022			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1023			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1024			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1025			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1026			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1027			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1028			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1029			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1030			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1031			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1032			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1033			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1034			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1035			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1036			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1037			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1038			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1039			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1040			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1041			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1042			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1043			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1044			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1045			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1046			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1047			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1048			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1049			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1050			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1051			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1052			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1053			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1054			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1055			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1101			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1102			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1103			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1104			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1105			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1106			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1107			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1108			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1109			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1110			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1111			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1112			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1113			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1114			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1115			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1116			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1117			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1118			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1119			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1120			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1121			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1122			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1123			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1124			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1125			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1126			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1127			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1128			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1129			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1130			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1131			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1132			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1133			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1134			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1135			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1136			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1137			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1138			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1139			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1140			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1141			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1142			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1143			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1144			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1145			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1146			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1147			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1148			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1149			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1150			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1151			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1201			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1202			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1203			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1204			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1205			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1206			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1207			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1208			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1209			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1210			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1211			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1212			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1213			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1214			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1215			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1216			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1217			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1218			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1219			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1220			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1221			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1222			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1223			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1224			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1225			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1226			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1227			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1228			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1229			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1230			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1231			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1232			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1233			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1234			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1235			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1236			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1237			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1238			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1239			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1240			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1241			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1242			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1243			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1244			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1245			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1246			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1247			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1248			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1249			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1301			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1302			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1303			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1304			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1305			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1306			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1307			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1308			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1309			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1310			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1311			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1312			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1313			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1314			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1315			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1316			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1317			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1318			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1319			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1320			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1321			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1322			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1323			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1324			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1325			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1326			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1327			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1328			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1329			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1330			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1331			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1332			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1333			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1334			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1335			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1336			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1337			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1338			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1339			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1340			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1341			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1342			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1343			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1344			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1345			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1346			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1347			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1401			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1402			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1403			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1404			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1405			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1406			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1407			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1408			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1409			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1410			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1411			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1412			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1413			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1414			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1415			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1416			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1417			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1418			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1419			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1420			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1421			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1422			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1423			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1424			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1425			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1426			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1427			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1428			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1429			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1430			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1431			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1432			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1433			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1434			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1435			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1436			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1437			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1438			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1439			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1440			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1441			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1442			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1443			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1444			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1445			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1501			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1502			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1503			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1504			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1505			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1506			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1507			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1508			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1509			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1510			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1511			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1512			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1513			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1515			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1516			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX1600			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX501			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX502			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX503			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX504			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX505			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX506			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX507			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX508			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX509			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX510			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX511			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX512			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX513			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX514			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX515			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX516			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX517			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX518			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX601			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX602			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX603			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX604			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX605			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX606			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX607			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX608			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX609			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX610			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX611			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX612			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX613			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX614			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX615			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX616			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX617			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX618			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX701			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX702			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX703			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX704			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX705			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX706			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX707			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX708			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX709			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX710			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX711			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX712			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX713			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX714			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX715			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX716			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX717			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX718			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX719			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX720			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX721			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX722			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX723			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX724			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX725			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX726			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX727			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX728			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX729			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX730			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX731			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX732			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX733			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX734			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX735			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX736			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX737			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX738			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX739			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX740			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX741			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX742			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX743			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX744			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX745			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX801			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX802			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX803			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX804			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX805			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX806			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX807			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX808			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX809			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX810			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX811			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX812			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX813			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX814			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX815			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX816			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX817			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX818			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX819			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX820			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX821			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX822			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX823			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX824			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX825			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX826			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX827			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX828			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX829			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX830			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX831			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX832			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX833			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX834			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX835			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX836			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX837			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX838			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX839			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX840			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX841			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX842			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX843			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX844			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX845			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX846			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX847			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX848			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX849			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX850			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX851			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX852			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX853			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX854			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX855			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX856			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX857			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX858			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX859			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX860			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX861			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX901			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX902			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX903			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX904			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX905			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX906			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX907			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX908			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX909			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX910			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX911			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX912			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX913			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX914			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX915			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX916			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX917			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX918			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX919			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX920			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX921			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX922			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX923			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX924			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX925			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX926			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX927			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX928			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX929			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX930			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX931			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX932			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX933			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX934			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX936			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX937			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX938			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX939			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX940			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX941			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX942			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX943			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX944			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX945			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX946			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX947			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX948			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX949			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA			0				PX950			N		N			PX	GENERIC	PX Room	0	0	0				1						
+MALHA	OUT		0				RPD			N		Y			S&C	GENERIC	Rooftop pool deck	0	0	0		10								
+MALHA	OUT		0				RTDRI			Y		Y			S&C	GENERIC	Rooftop pool deck DRI	0	0	0	10	10		800						
+MALHA	OUT		0				RTILG			Y		Y			S&C	GENERIC	Rooftop pool deck ELG	0	0	0	10	10		800						
+MALHA	OUT		0				RTPN			Y		Y			S&C	GENERIC	Rooftop pool deck Narcis	0	0	0	10	10		800						
+MALHA	IN		0				SATFO			Y		Y			S&C	GENERIC	Saturn Foyer	0	0	0	2	02		100						
+MALHA	OUT		0				SGL5			N		Y			S&C	GENERIC	Small Garden Level 5	0	0	0	5	05		100						
+MALHA	OUT		0				SKY			N		Y			S&C	GENERIC	Sky Beach	0	0	0										
+MALHA	MAIN		0				STOR			N		Y			S&C	GENERIC	IACC Storage Room	0	0	0		04								
+MALHA	IN		0				TBA			Y		Y			S&C	GENERIC	To be advised	0	0	0	3	03		1000						
+MALHA	IN		0				TRM			Y		Y			S&C	GENERIC	Training Room	0	0	0	6	06		50						
+MALHA	IN		0				WAB			N		Y			S&C	GENERIC	Waterbiscuit	0	0	0	3	03		250						
+MALHA	IN		0				WABL			N		Y			S&C	GENERIC	Waterbiscuit Lower	0	0	0	3	03		250						
+MALHA	IN		0				WABU			N		Y			S&C	GENERIC	Waterbiscuit Upper	0	0	0	4	04		250						
+LOGO
+
